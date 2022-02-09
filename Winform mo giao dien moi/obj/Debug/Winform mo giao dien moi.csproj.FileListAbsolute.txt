@@ -1,0 +1,52 @@
+C:\Users\cuong\source\repos\Winform mo giao dien moi\Winform mo giao dien moi\bin\Debug\Winform mo giao dien moi.exe.config
+C:\Users\cuong\source\repos\Winform mo giao dien moi\Winform mo giao dien moi\bin\Debug\Winform mo giao dien moi.exe
+C:\Users\cuong\source\repos\Winform mo giao dien moi\Winform mo giao dien moi\bin\Debug\Winform mo giao dien moi.pdb
+C:\Users\cuong\source\repos\Winform mo giao dien moi\Winform mo giao dien moi\obj\Debug\Winform mo giao dien moi.csprojAssemblyReference.cache
+C:\Users\cuong\source\repos\Winform mo giao dien moi\Winform mo giao dien moi\obj\Debug\Winform_mo_giao_dien_moi.Properties.Resources.resources
+C:\Users\cuong\source\repos\Winform mo giao dien moi\Winform mo giao dien moi\obj\Debug\Winform mo giao dien moi.csproj.GenerateResource.cache
+C:\Users\cuong\source\repos\Winform mo giao dien moi\Winform mo giao dien moi\obj\Debug\Winform mo giao dien moi.csproj.CoreCompileInputs.cache
+C:\Users\cuong\source\repos\Winform mo giao dien moi\Winform mo giao dien moi\obj\Debug\Winform mo giao dien moi.exe
+C:\Users\cuong\source\repos\Winform mo giao dien moi\Winform mo giao dien moi\obj\Debug\Winform mo giao dien moi.pdb
+C:\Users\cuong\source\repos\Winform mo giao dien moi\Winform mo giao dien moi\obj\Debug\Winform_mo_giao_dien_moi.LoginForm.resources
+C:\Users\cuong\source\repos\Winform mo giao dien moi\Winform mo giao dien moi\obj\Debug\Winform_mo_giao_dien_moi.TaoTk.resources
+C:\Users\Ngocgiau\OneDrive\Máy tính\WinF&C#\QLy KS\Winform mo giao dien moi\obj\Debug\Winform mo giao dien moi.csprojAssemblyReference.cache
+C:\Users\Ngocgiau\OneDrive\Máy tính\WinF&C#\QLy KS\Winform mo giao dien moi\obj\Debug\Winform_mo_giao_dien_moi.LoginForm.resources
+C:\Users\Ngocgiau\OneDrive\Máy tính\WinF&C#\QLy KS\Winform mo giao dien moi\obj\Debug\Winform_mo_giao_dien_moi.TaoTk.resources
+C:\Users\Ngocgiau\OneDrive\Máy tính\WinF&C#\QLy KS\Winform mo giao dien moi\obj\Debug\Winform_mo_giao_dien_moi.Properties.Resources.resources
+C:\Users\Ngocgiau\OneDrive\Máy tính\WinF&C#\QLy KS\Winform mo giao dien moi\obj\Debug\Winform mo giao dien moi.csproj.GenerateResource.cache
+C:\Users\Ngocgiau\OneDrive\Máy tính\WinF&C#\QLy KS\Winform mo giao dien moi\obj\Debug\Winform mo giao dien moi.csproj.CoreCompileInputs.cache
+C:\Users\Ngocgiau\OneDrive\Máy tính\WinF&C#\QLy KS\Winform mo giao dien moi\obj\Debug\Winform mo giao dien moi.exe
+C:\Users\Ngocgiau\OneDrive\Máy tính\WinF&C#\QLy KS\Winform mo giao dien moi\obj\Debug\Winform mo giao dien moi.pdb
+C:\Users\Ngocgiau\OneDrive\Máy tính\WinF&C#\QLy KS\Winform mo giao dien moi\bin\Debug\Winform mo giao dien moi.exe.config
+C:\Users\Ngocgiau\OneDrive\Máy tính\WinF&C#\QLy KS\Winform mo giao dien moi\bin\Debug\Winform mo giao dien moi.exe
+C:\Users\Ngocgiau\OneDrive\Máy tính\WinF&C#\QLy KS\Winform mo giao dien moi\bin\Debug\Winform mo giao dien moi.pdb
+C:\Users\Ngocgiau\OneDrive\Máy tính\WinF&C#\QLy KS\Winform mo giao dien moi\obj\Debug\Winform_mo_giao_dien_moi.GiaoDien.GiaodienLogin.resources
+C:\Users\cuong\Downloads\QLy KS\QLy KS\Winform mo giao dien moi\bin\Debug\Winform mo giao dien moi.exe.config
+C:\Users\cuong\Downloads\QLy KS\QLy KS\Winform mo giao dien moi\bin\Debug\Winform mo giao dien moi.exe
+C:\Users\cuong\Downloads\QLy KS\QLy KS\Winform mo giao dien moi\bin\Debug\Winform mo giao dien moi.pdb
+C:\Users\cuong\Downloads\QLy KS\QLy KS\Winform mo giao dien moi\obj\Debug\Winform mo giao dien moi.csprojAssemblyReference.cache
+C:\Users\cuong\Downloads\QLy KS\QLy KS\Winform mo giao dien moi\obj\Debug\Winform_mo_giao_dien_moi.GiaoDien.GiaodienLogin.resources
+C:\Users\cuong\Downloads\QLy KS\QLy KS\Winform mo giao dien moi\obj\Debug\Winform_mo_giao_dien_moi.LoginForm.resources
+C:\Users\cuong\Downloads\QLy KS\QLy KS\Winform mo giao dien moi\obj\Debug\Winform_mo_giao_dien_moi.TaoTk.resources
+C:\Users\cuong\Downloads\QLy KS\QLy KS\Winform mo giao dien moi\obj\Debug\Winform_mo_giao_dien_moi.Properties.Resources.resources
+C:\Users\cuong\Downloads\QLy KS\QLy KS\Winform mo giao dien moi\obj\Debug\Winform mo giao dien moi.csproj.GenerateResource.cache
+C:\Users\cuong\Downloads\QLy KS\QLy KS\Winform mo giao dien moi\obj\Debug\Winform mo giao dien moi.csproj.CoreCompileInputs.cache
+C:\Users\cuong\Downloads\QLy KS\QLy KS\Winform mo giao dien moi\obj\Debug\Winform mo giao dien moi.exe
+C:\Users\cuong\Downloads\QLy KS\QLy KS\Winform mo giao dien moi\obj\Debug\Winform mo giao dien moi.pdb
+C:\Users\Ngocgiau\OneDrive\Máy tính\WinF&C#\QLy KS\Winform mo giao dien moi\obj\Debug\Winform_mo_giao_dien_moi.Views.Demooooo.resources
+C:\Users\Ngocgiau\OneDrive\Máy tính\WinF&C#\QLy KS\Winform mo giao dien moi\obj\Debug\Winform_mo_giao_dien_moi.Views.ThemPhong.resources
+D:\Visual Studio Project\Quan Ly KS\QLy KS\Winform mo giao dien moi\bin\Debug\Winform mo giao dien moi.exe.config
+D:\Visual Studio Project\Quan Ly KS\QLy KS\Winform mo giao dien moi\bin\Debug\Winform mo giao dien moi.exe
+D:\Visual Studio Project\Quan Ly KS\QLy KS\Winform mo giao dien moi\bin\Debug\Winform mo giao dien moi.pdb
+D:\Visual Studio Project\Quan Ly KS\QLy KS\Winform mo giao dien moi\obj\Debug\Winform mo giao dien moi.csproj.AssemblyReference.cache
+D:\Visual Studio Project\Quan Ly KS\QLy KS\Winform mo giao dien moi\obj\Debug\Winform mo giao dien moi.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio Project\Quan Ly KS\QLy KS\Winform mo giao dien moi\obj\Debug\Winform_mo_giao_dien_moi.Views.Demooooo.resources
+D:\Visual Studio Project\Quan Ly KS\QLy KS\Winform mo giao dien moi\obj\Debug\Winform_mo_giao_dien_moi.GiaoDien.GiaodienLogin.resources
+D:\Visual Studio Project\Quan Ly KS\QLy KS\Winform mo giao dien moi\obj\Debug\Winform_mo_giao_dien_moi.LoginForm.resources
+D:\Visual Studio Project\Quan Ly KS\QLy KS\Winform mo giao dien moi\obj\Debug\Winform_mo_giao_dien_moi.TaoTk.resources
+D:\Visual Studio Project\Quan Ly KS\QLy KS\Winform mo giao dien moi\obj\Debug\Winform_mo_giao_dien_moi.Properties.Resources.resources
+D:\Visual Studio Project\Quan Ly KS\QLy KS\Winform mo giao dien moi\obj\Debug\Winform_mo_giao_dien_moi.Views.ThemPhong.resources
+D:\Visual Studio Project\Quan Ly KS\QLy KS\Winform mo giao dien moi\obj\Debug\Winform mo giao dien moi.csproj.GenerateResource.cache
+D:\Visual Studio Project\Quan Ly KS\QLy KS\Winform mo giao dien moi\obj\Debug\Winform mo giao dien moi.csproj.CoreCompileInputs.cache
+D:\Visual Studio Project\Quan Ly KS\QLy KS\Winform mo giao dien moi\obj\Debug\Winform mo giao dien moi.exe
+D:\Visual Studio Project\Quan Ly KS\QLy KS\Winform mo giao dien moi\obj\Debug\Winform mo giao dien moi.pdb
